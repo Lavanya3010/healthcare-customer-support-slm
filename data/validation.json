@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Why was my insurance claim denied?",
+        "answer": "A claim may be denied for different reasons. Please check the official denial reason in the authorized system or contact the insurance support team."
+    },
+    {
+        "question": "What is an Explanation of Benefits?",
+        "answer": "An Explanation of Benefits, or EOB, is a document from an insurance company explaining how a claim was processed. It is generally not a bill."
+    },
+    {
+        "question": "How can I check my provider enrollment status?",
+        "answer": "Provide your provider reference details through the authorized support channel. The enrollment team can verify and share the current status."
+    }
+]

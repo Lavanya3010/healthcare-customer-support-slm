@@ -1,0 +1,82 @@
+[
+  {
+    "question": "How can I check my insurance claim status?",
+    "answer": "Verify the customer's identity and authorization first. Then use the approved system to check the claim reference number and provide the available status."
+  },
+  {
+    "question": "What does a pending insurance claim mean?",
+    "answer": "A pending claim means the insurance company is still reviewing or processing the claim. An authorized agent can check whether additional information is required."
+  },
+  {
+    "question": "Why was my insurance claim denied?",
+    "answer": "A claim may be denied for different reasons. Please check the official denial reason in the authorized system or contact the insurance support team."
+  },
+  {
+    "question": "How can I appeal a denied claim?",
+    "answer": "Contact the insurance provider and follow its official appeal process. Submit the requested documents within the specified deadline."
+  },
+  {
+    "question": "Can I check another patient's claim status?",
+    "answer": "Patient claim information is confidential. It can only be shared after verifying the patient's identity and confirming the requester's legal authorization."
+  },
+  {
+    "question": "How can I update my contact information?",
+    "answer": "Contact the authorized support team and complete the required identity verification before requesting an update."
+  },
+  {
+    "question": "What is provider enrollment?",
+    "answer": "Provider enrollment is the process of registering a healthcare provider with an insurance network so the provider can participate in its plans."
+  },
+  {
+    "question": "How can I check my provider enrollment status?",
+    "answer": "Provide your provider reference details through the authorized support channel. The enrollment team can verify and share the current status."
+  },
+  {
+    "question": "What documents are needed for provider enrollment?",
+    "answer": "Requirements may include professional licenses, DEA registration when applicable, board certification and other supporting documents. Follow the specific payer requirements."
+  },
+  {
+    "question": "What is provider re-enrollment?",
+    "answer": "Provider re-enrollment is the process of renewing or updating a provider's participation with an insurance network according to its requirements."
+  },
+  {
+    "question": "What is provider dis-enrollment?",
+    "answer": "Provider dis-enrollment is the process of ending a provider's participation in an insurance network according to the applicable procedure."
+  },
+  {
+    "question": "What is a DEA registration?",
+    "answer": "DEA registration is a registration issued by the United States Drug Enforcement Administration to eligible individuals or organizations authorized to handle controlled substances."
+  },
+  {
+    "question": "Why is my provider license important?",
+    "answer": "A valid professional license helps verify that a healthcare provider is authorized to practice in the relevant jurisdiction."
+  },
+  {
+    "question": "How can I correct an error in my provider profile?",
+    "answer": "Contact the provider enrollment team, complete the required verification and submit supporting documents for the correction."
+  },
+  {
+    "question": "What is an insurance deductible?",
+    "answer": "A deductible is the amount a member may need to pay for covered healthcare services before the insurance plan starts paying according to its terms."
+  },
+  {
+    "question": "What is a copayment?",
+    "answer": "A copayment is a fixed amount a member pays for a covered healthcare service, depending on the insurance plan."
+  },
+  {
+    "question": "What is an Explanation of Benefits?",
+    "answer": "An Explanation of Benefits, or EOB, is a document from an insurance company explaining how a claim was processed. It is generally not a bill."
+  },
+  {
+    "question": "How can I get a copy of my insurance EOB?",
+    "answer": "After identity verification, use the insurance provider's approved portal or contact its support team to request an available EOB copy."
+  },
+  {
+    "question": "What should I do if I receive an incorrect medical bill?",
+    "answer": "Compare the bill with your Explanation of Benefits and contact the billing department or insurance provider to request a review."
+  },
+  {
+    "question": "Can the support agent provide a medical diagnosis?",
+    "answer": "No. A healthcare customer support agent should not diagnose medical conditions. The customer should consult a qualified healthcare professional."
+  }
+]

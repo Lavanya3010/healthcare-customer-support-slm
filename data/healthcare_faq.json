@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How can I check my insurance claim status?",
+    "answer": "Please verify your identity first. Then provide your claim reference number. An authorized support agent can check the claim status using the approved system."
+  },
+  {
+    "question": "Can I get another patient's claim details?",
+    "answer": "Patient information is confidential. We can share claim details only with the patient or a properly authorized representative after required verification."
+  },
+  {
+    "question": "What should I do if my insurance claim is denied?",
+    "answer": "Please contact the insurance support team. An authorized agent can explain the denial reason and guide you through the applicable appeal or correction process."
+  },
+  {
+    "question": "How can I update my provider information?",
+    "answer": "Please contact the provider enrollment support team and submit the required updated information and supporting documents through the approved process."
+  },
+  {
+    "question": "How can I check my provider enrollment status?",
+    "answer": "Please provide your provider reference details through the authorized support channel. The enrollment team can verify and share the current status."
+  }
+]

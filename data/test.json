@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What documents are needed for provider enrollment?",
+        "answer": "Requirements may include professional licenses, DEA registration when applicable, board certification and other supporting documents. Follow the specific payer requirements."
+    },
+    {
+        "question": "How can I check my insurance claim status?",
+        "answer": "Verify the customer's identity and authorization first. Then use the approved system to check the claim reference number and provide the available status."
+    },
+    {
+        "question": "How can I appeal a denied claim?",
+        "answer": "Contact the insurance provider and follow its official appeal process. Submit the requested documents within the specified deadline."
+    }
+]
